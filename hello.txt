@@ -1,1 +1,3 @@
 Hello, Git and GitHub!
+We are cruising well!
+Let's do hard things!
